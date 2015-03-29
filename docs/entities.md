@@ -1,6 +1,6 @@
 # Writing Partymapper
 
-## Entities
+## 5. Writing entities
 
 Yes! Finally some code.
 

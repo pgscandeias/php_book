@@ -1,6 +1,6 @@
 # Writing Partymapper
 
-## Bootstrap
+## 3. Bootstrapping with Composer
 
 Here we go.
 

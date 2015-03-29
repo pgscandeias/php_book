@@ -1,12 +1,8 @@
 # Writing Partymapper
 
-## Overview
+## Introduction
 
-I'll be coding a simple backend in php, using an onion architecture for my business logic, a command pattern to expose use cases, and test-driven development throughout to ensure quality and maintainability.
-
-In many ways this adheres to the principles laid out by Uncle Bob in his talk "Architecture: the lost years", in which he argues against tying logic to a particular web framework.
-
-## Background
+### A little background
 
 On a recent trip to London I installed Nightmapper, a little iphone app that shows parties happening nearby. I have yet to find a better app for when I'm out and about with no idea where to go next.
 

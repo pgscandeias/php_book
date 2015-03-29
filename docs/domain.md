@@ -1,6 +1,6 @@
 # Writing Partymapper
 
-## Domain
+## 2. Analysing the domain
 
 No point in writing code before I know my domain. Let's grab a moleskine and a pen.
 
